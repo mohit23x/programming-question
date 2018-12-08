@@ -1,15 +1,15 @@
-#Your task is to output YES if the logo is symmetric else output NO.
+# Your task is to output YES if the logo is symmetric else output NO.
 
-#Input:
+# Input:
 - First line contains T - number of test cases.
 - T test cases follow.
 - First line of each test case contains the N - size of matrix.
 - Next N lines contains binary strings of length N.
 
-#Output:
+# Output:
 - Print YES or NO in a new line for each test case
 
-#SAMPLE INPUT
+# SAMPLE INPUT
 5
 2
 11
@@ -37,7 +37,7 @@
 01010
 01110
 
-#SAMPLE OUTPUT
+# SAMPLE OUTPUT
 YES
 NO
 YES
