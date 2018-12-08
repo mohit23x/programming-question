@@ -48,6 +48,7 @@ NO
 <br>
 <hr>
 <br>
+<pre>
 <code>
 n = int(input())
 
@@ -78,3 +79,4 @@ for i in range(n):
     t = [list(map(int, input())) for i in range(size)]
     print(chec(t, size))
 </code>
+</pre>
