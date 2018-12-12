@@ -1,6 +1,6 @@
 # You are given a matrix of characters. The matrix has N rows and M columns. Given a string s, you have to tell if it is possible to generate that string from given matrix.
 <br />
-# Rules for generating string from matrix are:
+ Rules for generating string from matrix are:
 
 - You have to pick first character of string from row 1, second character from row 2 and so on. - The  character of string is to be picked from row 1, that is, you can traverse the rows in a cyclic manner (row 1 comes after row N).
 - If an occurrence of a character is picked from a row, you cannot pick the same occurrence again from that row.

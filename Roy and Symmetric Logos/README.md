@@ -1,4 +1,4 @@
-# Your task is to output YES if the logo is symmetric else output NO.
+Your task is to output YES if the logo is symmetric else output NO.
 
 # Input:
 - First line contains T - number of test cases.
